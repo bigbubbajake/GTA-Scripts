@@ -2,7 +2,7 @@
 fx_version 'bodacious'
 games { 'gta5' }
 
-author 'rubbertoe98'
+author 'bigbubbajake'
 description 'CarryPeople'
 version '1.0.0'
 
